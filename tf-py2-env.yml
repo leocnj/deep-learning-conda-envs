@@ -1,11 +1,11 @@
 name: tf-py2-env
-channels: 
+channels:
   - conda-forge
-  - ioam
+  # - ioam
 dependencies:
   - python=2.7
   - numpy
-  - holoviews
+  # - holoviews
   - jupyter
   - pandas
   - matplotlib
@@ -14,7 +14,9 @@ dependencies:
     - tqdm
     - packaging
     - appdirs
-    - tensorflow-gpu
-    - holoviews
+    # - tensorflow-gpu
+    - tensorflow-cpu
+    - keras
+    # - holoviews
     - sklearn
     - pillow
