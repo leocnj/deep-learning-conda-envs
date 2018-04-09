@@ -16,7 +16,7 @@ dependencies:
     - appdirs
     # - tensorflow-gpu
     # - holoviews
-    - tensorflow-cpu
+    - tensorflow
     - keras
     - sklearn
     - pillow

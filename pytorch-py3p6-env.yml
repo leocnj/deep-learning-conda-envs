@@ -23,3 +23,5 @@ dependencies:
     # - holoviews
     # - gpustat
     - sklearn
+    # to use TFRecord saved binary files
+    - tensorflow
