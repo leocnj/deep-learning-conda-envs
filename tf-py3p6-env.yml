@@ -20,3 +20,6 @@ dependencies:
     - keras
     - sklearn
     - pillow
+    - h5py
+    - gensim
+    - flask
