@@ -1,0 +1,12 @@
+name: cv-py3p6-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - mkl
+  - opencv
+  - dlib 
+  - pip:
+    - tqdm
