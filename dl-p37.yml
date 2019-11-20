@@ -1,0 +1,23 @@
+name: dl-p37
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.7
+  - numpy
+  - jupyter
+  - pandas
+  - matplotlib
+  - seaborn
+  - pip:
+    - tqdm
+    - tensorflow
+    - keras
+    - sklearn
+    - h5py
+    - gensim
+    - spacy
+    - pytorch
+    - torchvision
+    - allennlp
+    - fastai

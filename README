@@ -1,0 +1,16 @@
+
+dl-py env is for
+
+- ML
+  - sklearn
+- NLP
+  - gensim
+  - spacy
+- DL
+    - keras + RF
+    - pytorch
+    - allennlp
+    - fastai
+
+
+`conda env create -f dl-p37.yml`
